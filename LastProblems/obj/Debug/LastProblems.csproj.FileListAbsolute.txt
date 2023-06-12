@@ -1,0 +1,7 @@
+C:\Users\Ahmed L R\source\repos\LastProblems\LastProblems\bin\Debug\LastProblems.exe.config
+C:\Users\Ahmed L R\source\repos\LastProblems\LastProblems\bin\Debug\LastProblems.exe
+C:\Users\Ahmed L R\source\repos\LastProblems\LastProblems\bin\Debug\LastProblems.pdb
+C:\Users\Ahmed L R\source\repos\LastProblems\LastProblems\obj\Debug\LastProblems.csproj.AssemblyReference.cache
+C:\Users\Ahmed L R\source\repos\LastProblems\LastProblems\obj\Debug\LastProblems.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed L R\source\repos\LastProblems\LastProblems\obj\Debug\LastProblems.exe
+C:\Users\Ahmed L R\source\repos\LastProblems\LastProblems\obj\Debug\LastProblems.pdb
